@@ -1,8 +1,8 @@
 ############## VARIABLE DEFINITIONS #################
 
-PROJECT_NAME = fitbit
-SOURCES = fitbit.c
-EXEC = fitbit
+PROJECT_NAME = bin-parser
+SOURCES = bin-parser.c
+EXEC = bin-parser
 INCLUDES =
 
 LINKSTATIC = no
